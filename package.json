@@ -1,0 +1,14 @@
+{
+  "name": "nucleo-tempestades-fake-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/saleszera/nt-fake-api.git",
+  "author": "saleszera <crowzcoleslaw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

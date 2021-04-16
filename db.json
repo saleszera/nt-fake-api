@@ -1,0 +1,470 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Sistema De Alerta De Descargas Atmosféricas",
+      "text": "A metodologia utilizada pelo Núcleo de Monitoramento não se baseia simplesmente em estudos estatísticos e nem utiliza sistemas automatizados. Ela está embasada no conhecimento dos processos físicos dos fenômenos atmosféricos severos (associados às descargas atmosféricas) e possibilita determinar, com significativa exatidão, qual a probabilidade de ocorrência de um evento severo na(s) área(s) monitorada(s), dando suporte a diferentes ações preventivas no sentido de minimizar os prejuízos materiais causados por esses fenômenos atmosféricos, como também evitar perdas humanas. Essa metodologia, por utilizar diferentes fontes de dados e por acompanhar a evolução dinâmica e elétrica dos sistemas convectivos em tempo real, implicitamente já leva em consideração as condições topográficas da(s) área(s) monitorada(s). Isso torna possível, portanto, monitorar a ocorrência de eventos severos em regiões de serra, depressões, vales, planaltos ou zona litorânea mantendo os mesmos níveis de qualidade do sistema. Além disso, ela não se baseia na distância de ocorrência dos sistemas convectivos, mas sim no tempo de antecedência de sua evolução / aproximação. Dessa forma, o parâmetro fundamental desse sistema de monitoramento é o tempo que um evento severo vai levar para alcançar (ou se formar sobre) a(s) área(s) monitorada(s). Com isso, a distância que do evento severo passa a não ser mais importante. Com esse método, maximiza-se a segurança e minimiza-se o tempo e quantidade de eventos de paralisação.",
+      "icon": "https://img.icons8.com/pastel-glyph/2x/statistics--v3.png"
+    },
+    {
+      "id": 2,
+      "title": "Serviço Complementar De Previsão Do Tempo",
+      "text": "Juntamente ao serviço de alerta de descargas atmosféricas, o Núcleo de Monitoramento disponibiliza também boletins de previsão do tempo e condições oceânicas para até 15 dias a partir de diferentes modelos de previsão numérica do tempo. Atualmente o Núcleo de Monitoramento roda o modelo WRF (Weather Research & Forecasting) com resoluções de 3 a 30km, gerando previsões horárias para até 120 horas e possibilitando assim previsões meteorológicas ainda mais consistentes. As principais variáveis utilizadas na previsão de ocorrência dos fenômenos atmosféricos severos são: (1) umidade relativa; (2) precipitação; (3) pressão ao nível do mar; (4) linhas de correntes na superfície (direção e magnitude dos ventos); (5) temperatura da superfície; (6) índices K, TT, ShowWalter, MCAPE, MCINE. Todos esses parâmetros juntos permitem determinar as condições potenciais da atmosfera para a formação dos eventos severos. Previsões meteorológicas (precipitação e temperatura) de longo prazo (até 06 meses) também são possíveis, obtidas a partir do levantamento de dados históricos locais (utilizando bases de dados combinadas de, no mínimo, 10 anos) em conjunto com as saídas de modelos globais estatísticos (Ensemble) e projeções de cenários climáticos.",
+      "icon": "https://www.pikpng.com/pngl/m/211-2116604_world-wide-web-clipart-globe-globe-vector-icon.png"
+    },
+    {
+      "id": 3,
+      "title": "Consultoria Nos Projetos De SPDA",
+      "text": "Um SPDA (Sistema de Proteção contra Descargas Atmosféricas) tem como objetivo blindar uma estrutura, seus ocupantes e seu conteúdo dos efeitos térmicos, mecânicos e elétricos associados às descargas atmosféricas diretas. O SPDA atua fundamentalmente no sentido de oferecer um caminho de baixa resistência elétrica para a corrente elétrica fluir até o solo sem passar pelas partes condutoras da estrutura, danificando-as, ou pelos ocupantes, causando acidentes. É importante destacar que um SPDA não impede que a descarga atmosférica atinja a estrutura nem tampouco a atrai até ele. Além disso, o SPDA não protege os equipamentos elétricos e eletrônicos contra interferências eletromagnéticas nem protege as pessoas contra os efeitos indiretos causados pelas descargas atmosféricas. Desta forma, em conjunto com o serviço de acompanhamento e previsão de descargas atmosféricas, o Núcleo de Monitoramento também possui competência para prestar consultoria em projetos de SPDA para estruturas localizadas em grandes áreas abertas, visando ou não a proteção de vidas humanas. Neste último caso, o projeto e instalação do SPDA deverão ser analisados individualmente para cada edificação de forma a complementar o monitoramento de descargas atmosféricas, possibilitando assim máxima segurança aos trabalhadores envolvidos nas atividades a céu aberto. Por possuir dados de descargas atmosféricas em todo o Brasil, o Núcleo de Monitoramento também realiza análises dos riscos de ocorrência de acidentes / incidentes envolvendo descargas atmosféricas (relacionados principalmente com vidas humanas) além de estudos do número e do tempo de paralisação de atividades em função do risco de incidência de descargas atmosféricas. As análises de risco seguem os procedimentos descritos na norma internacional IEC 62305-2 (Protection against lightning - Part 2: Risk management), mais especifica¬mente, o item Identificação do Risco Tolerável (Tabela NK.1) onde se estabelece os níveis de risco primário para diferentes situações, entre elas perdas de vidas humanas. Este item estabelece diferentes componentes do risco primário para acidentes envolvendo seres humanos a partir da incidência de descargas atmosféricas próximas ou sobre estruturas. Com isso é possível a caracterização do risco de ocorrência de descargas atmosféricas em dada região bem como qual o impacto de eventuais paralisações devidas às descargas atmosféricas nos cronogramas das atividades do cliente.",
+      "icon": "https://www.pikpng.com/pngl/m/105-1052172_png-file-svg-transparent-background-education-icon-clipart.png"
+    }    
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "03 de abril de 2021 - 22:00:25",
+      "text": "A ocorrência de uma descarga atmosférica na última quinta-feira (01/04) provocou um incêndio de grandes proporções na cidade de Guaratinga, no sul da Bahia. O raio ocorreu por volta das 17hrs e durou pelo menos até a manhã da sexta-feira. De acordo com o Núcleo de Monitoramento do INPE, havia a passagem de um sistema frontal na região neste dia que ocasionou a formação de tempestades intensas e com alta incidência de raios."
+    },
+    {
+      "id": 2,
+      "title": "03 de abril de 2021 - 21:57:02",
+      "text": "Na última terça-feira (30/03), a ocorrência de um raio em Iguaba Grande, no Rio de Janeiro, provocou um incêndio em uma residência no bairro Vila Nova. Apesar de os bombeiros terem sido chamados e realizarem o controlo do gofo, o incêndio provocou a perca de todos os pertences da família. De acordo com o Núcleo de Monitoramento do INPE, as tempestades que ocorriam na região foram causadas devido a passagem de um sistema frontal pela região."
+    },
+    {
+      "id": 3,
+      "title": "03 de abril de 2021 - 21:54:22",
+      "text": "Durante a madrugada da última terça-feira e quarta-feira (30 e 31 de março), a ocorrência de tempestades provocaram a queda de um raio na vegetação que cobria uma rocha no município de Atílio Vivácqua, no sul do Espirito Santo. O raio provocou um incêndio na vegetação e queimou boa parte da vegetação que cobria a rocha. Devido a dificuldade em acessar o local do incêndio, não foi possível realizar o controle dos focos de incêndio."
+    },
+    {
+      "id": 4,
+      "title": "31 de março de 2021 - 13:05:33",
+      "text": "Durante a madrugada da última terça-feira (30/03), um homem de 39 anos morreu após ser atingido por um raio em Ubatuba, litoral de São Paulo. Segundo o corpo de bombeiros, a vítima estava junto com um amigo, em uma embarcação de metal na Ilha das Couves quando a tempestade começou pegando os dois de surpresa. O amigo da vítima nadou até a praia, arrastando a embarcação e procurou ajuda. Quando os bombeiros chegaram o homem já estava morto. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de uma Frente Fria favorecia o transporte de umidade para a região, colaborando para a ocorrência de pancadas de chuva tempestades localmente intensas."
+    },
+    {
+      "id": 5,
+      "title": "29 de março de 2021 - 08:55:46",
+      "text": "Na noite de sábado (27/03), um jovem de 22 anos morreu ao ser atingido por um raio em Serra Negra do Norte, no Seridó Potiguar (RN). No momento do ocorrido, Lucas Medeiros pescava em um açude com amigos na zona rural da cidade. Lucas e cerca de cinco amigos no momento da tempestades se abrigaram em baixo de uma árvore e foram atingidos por um raio. Com a descarga, alguns desmaiaram e Lucas não resistiu. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, na região NE devido a atuação da ZCIT associada ainda a divergência em altos níveis resultou em chuva localmente intensa e tempestades."
+    },
+    {
+      "id": 6,
+      "title": "22 de março de 2021 - 16:55:36",
+      "text": "Um homem foi atingido por um raio durante uma tempestade ocorrida na última quinta-feira (18/03), na cidade de Bauru, interior de São Paulo. O incidente ocorreu por volta do meio-dia e o rapaz acredita que o guarda-chuva que usava tenha sido o condutor da descarga. Apesar do susto, ele passa bem. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de uma Frente Fria favoreceu o aumento da instabilidade e da umidade, provocando pancadas de chuva e tempestades localmente intensas pela região."
+    },
+    {
+      "id": 7,
+      "title": "18 de março de 2021 - 17:02:42",
+      "text": "Isaias da Silva, 39 anos, morreu após ser atingido por um raio, enquanto voltava para casa. O caso aconteceu na tarde do dia 15, numa fazenda localizada em Bodoquena, 266 quilômetros de Campo Grande. Garoava no momento, então Isaias decidiu subir na carroceria de um trator para chegar mais rápido em casa quando no retorno, um raio caiu de repente. A descarga elétrica atingiu Isaias, que não resistiu e morreu no local. Um colega de trabalho que presenciou a cena tentou reanimar a vítima, porém, ele já não apresentava mais sinais vitais. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a alta umidade somada ao aquecimento diurno junto com divergência na altura deixaram as condições favoráveis para a ocorrência de tempestades."
+    },
+    {
+      "id": 8,
+      "title": "08 de março de 2021 - 12:00:00",
+      "text": "Um homem morreu após ser atingido por um raio na noite de domingo (7), na zona rural de Pancas, na região Noroeste do Espirito Santo. A vítima estava mexendo no celular quando foi atingida pela descarga elétrica. Segundo o coordenador da Defesa Civil Municipal, a fatalidade aconteceu na localidade de São José Pequeno. A família ainda tentou pedir socorro, mas não conseguiu porque é um local bem afastado. Raios também mataram animais no interior do estado. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a alta umidade favorecida pela configuração de grande escala juntamente com a instabilidade causada por um sistema frontal favoreceram a ocorrência de levantamento e consequente formação de tempestades com altos acumulados de chuva ao longo do dia."
+    },
+    {
+      "id": 9,
+      "title": "27 de fevereiro de 2021 - 22:01:55",
+      "text": "Na última sexta-feira (26/02), dois salva-vidas ficaram feridos após um raio atingir o posto de salvamento, na praia de Guaratuba, litoral do Paraná. Segundo os bombeiros, os dois estavam dentro do local no momento da descarga. Um dos salva-vidas ficou em estado grave, mas já se encontra estável. O outro teve ferimentos leves. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, o resquício da passagem de um sistema frontal favoreceu a ocorrência de pancadas de chuva e tempestades isoladas na região."
+    },
+    {
+      "id": 10,
+      "title": "25 de fevereiro de 2021 - 20:44:53",
+      "text": "Na última quinta-feira (25/02), um homem estava pescando com seu filho em um pesqueiro de Araucária, localizado na região metropolitana de Curitiba, quando foi atingido por um raio proveniente de uma tempestade que estava sobre a região. Infelizmente o homem acabou indo a óbito, mas seu filho teve apenas ferimentos leves. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de um cavado em médios níveis dava suporte para formação de tempestades na região leste do Paraná."
+    },
+    {
+      "id": 11,
+      "title": "25 de fevereiro de 2021 - 09:08:33",
+      "text": "Na última quarta-feira (24/02), pai e filho morreram ao serem atingidos por uma descarga elétrica em Francisco Ayres, município localizado a 170 km de Teresina, no Piauí. De acordo com o secretário municipal da cidade, as vítimas estavam trabalhando na zona rural da cidade no momento do ocorrido, e resolveram abrigar-se da chuva embaixo de uma árvore, onde foram atingidos pelo raio. Também estavam presentes outro filho e sobrinho do vítima, os quais foram encaminhados ao hospital e passam bem. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação da Zona de Convergência Intertropical (ZCIT) aliada à termodinâmica local, potencializaram a instabilidade na região, provocando tempestades no decorrer do dia."
+    },
+    {
+      "id": 12,
+      "title": "23 de fevereiro de 2021 - 20:46:36",
+      "text": "Na última segunda-feira (22/02), um garoto de apenas 8 anos morreu vítima de um raio, na zona rural da cidade de Santo Antônio dos Milagres, a 120 km de Teresina (PI). O menino estava brincando em um campo de futebol com amigos, durante a tempestade, quando foi atingido pelo raio. Ele chegou a ser socorrido, mas não resistiu. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação da Zona de Convergência Intertropical (ZCIT) somada a termodinâmica, favoreceram a instabilidade e a ocorrência de tempestades na região."
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/logo_atvos.png",
+      "webSite": "https://www.atvos.com/"
+    },
+    {
+      "id": 2,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1555013229_constremac.jpg",
+      "webSite": "https://www.constremac.com.br/"
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950252_Construcap.jpg",
+      "webSite": "https://www.construcap.com.br/pt/home"
+    },
+    {
+      "id": 4,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1553887980_cortez-engenharia-logotipo.png",
+      "webSite": "https://cortezengenharia.com.br/"
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1523881272_cymi.jpg",
+      "webSite": "https://www.pt.cymisa.com/"
+    },
+    {
+      "id": 6,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1452084054_logo2ecb.jpg",
+      "webSite": "http://www.ecbsa.com.br/#/"
+    },
+    {
+      "id": 7,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1526994895_logo_energisa.jpg",
+      "webSite": "https://www.energisa.com.br/"
+    },
+    {
+      "id": 8,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1528221563_engie_logotype_gradient_blue_pantone.png",
+      "webSite": "https://www.engie.com.br/"
+    },
+    {
+      "id": 9,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1544638442_image001.png",
+      "webSite": "https://www.fundacaorenova.org/"
+    },
+    {
+      "id": 10,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1515784187_logoccsn.jpg",
+      "webSite": "http://www.niplan.com.br/"
+    },
+    {
+      "id": 11,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1546626352_1513076358_logotipo-embranco.png",
+      "webSite": "http://www.promonengenharia.com.br/"
+    },
+    {
+      "id": 12,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/clientes/img/logo_nordex.jpg",
+      "webSite": "#"
+    },
+    {
+      "id": 13,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1511549281_queiroz-galvao.png",
+      "webSite": "https://construtoraqueirozgalvao.com.br/"
+    },
+    {
+      "id": 14,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/sdepcibrazillogo.jpg",
+      "webSite": "http://www.sdepci.com:8080/"
+    },
+    {
+      "id": 15,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1433948710_logo_samarco.jpg",
+      "webSite": "https://www.samarco.com/"
+    },
+    {
+      "id": 16,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1512391746_logosantarita.jpg",
+      "webSite": "#"
+    },
+    {
+      "id": 17,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1521742744_seta_engenharia.png",
+      "webSite": "https://setaengenharia.com/"
+    },
+    {
+      "id": 18,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1583879684_logoteckma.png",
+      "webSite": "https://www.teckma.com.br/"
+    },
+    {
+      "id": 19,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950452_tenaris_rgb.jpg",
+      "webSite": "https://www.tenaris.com/en"
+    },
+    {
+      "id": 20,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1510858132_logoyara.png",
+      "webSite": "https://www.yarabrasil.com.br/"
+    },
+    {
+      "id": 21,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950072_Logo_AngloAmerican.jpg",
+      "webSite": "https://brasil.angloamerican.com/pt-pt"
+    },
+    {
+      "id": 22,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1424786314_logo%20laranja%20e%20branco%20horizontal.jpg",
+      "webSite": "http://azevedotravassos.com.br/portal/"
+    },
+    {
+      "id": 23,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421951852_Logotipo_CCSL.jpg",
+      "webSite": "#"
+    },
+    {
+      "id": 24,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1477416750_cco_logo.jpg",
+      "webSite": "#"
+    },
+    {
+      "id": 25,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950225_LOGO_CONSORCIO_COLORIDA.jpg",
+      "webSite": "#"
+    },
+    {
+      "id": 26,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950363_image001.png",
+      "webSite": "https://www.enseada.com/"
+    },
+    {
+      "id": 27,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1427205575_Logo%20Elektro%20(novo).png",
+      "webSite": "https://www.elektro.com.br/"
+    },
+    {
+      "id": 28,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1470751042_logofibria.jpg",
+      "webSite": "http://r2017.fibria.com.br/somos-fibria/sobre-a-fibria/"
+    },
+    {
+      "id": 29,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950275_Liderroll.jpg",
+      "webSite": "http://www.liderroll.com.br/WP/"
+    },
+    {
+      "id": 30,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1482240014_montcalm_logo.jpg",
+      "webSite": "https://montcalm.com.br/"
+    },
+    {
+      "id": 31,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1546626061_norteng.jpeg",
+      "webSite": "http://norteng.com.br/"
+    },
+    {
+      "id": 32,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950389_Logo_Petrobras_2.jpg",
+      "webSite": "https://petrobras.com.br/pt/"
+    },
+    {
+      "id": 33,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1511181428_progen.jpg",
+      "webSite": "http://www.progen.com.br/"
+    },
+    {
+      "id": 34,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950507_Logo_Vale.gif",
+      "webSite": "http://www.vale.com/brasil/PT/Paginas/default.aspx"
+    },
+    {
+      "id": 35,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1493294226_vli.png",
+      "webSite": "https://www.vli-logistica.com.br/"
+    },
+    {
+      "id": 36,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/UTC_ENGENHARIA.png",
+      "webSite": "http://www.utcparticipacoes.com.br/"
+    },
+    {
+      "id": 37,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1553087406_topo_novo_civil_master.png",
+      "webSite": "http://www.civilmaster.com.br/"
+    },
+    {
+      "id": 38,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1591127858_vestas.jpg",
+      "webSite": "https://www.vestas.com/"
+    },
+    {
+      "id": 39,
+      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950338_Odebrecht.jpg",
+      "webSite": "https://www.oec-eng.com/"
+    }
+  ],
+  "monitoring": [
+    {
+      "id": 1,
+      "state": "AC",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AC.png",      
+      "classification": 20
+    },
+    {
+      "id": 2,
+      "state": "AL",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AL.png",
+      "classification": 19
+    },
+    {
+      "id": 3,
+      "state": "AM",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AM.png",
+      "classification": 190
+    },
+    {
+      "id": 4,
+      "state": "AP",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AP.png",
+      "classification": 200
+    },
+    {
+      "id": 5,
+      "state": "BA",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/BA.png",
+      "classification": 25
+    },
+    {
+      "id": 6,
+      "state": "CE",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/CE.png",
+      "classification": 50
+    },
+    {
+      "id": 7,
+      "state": "DF",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/DF.png",
+      "classification": 27
+    },
+    {
+      "id": 8,
+      "state": "ES",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/ES.png",
+      "classification": 11
+    },
+    {
+      "id": 9,
+      "state": "GO",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/GO.png",
+      "classification": 5
+    },
+    {
+      "id": 10,
+      "state": "MA",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MA.png",
+      "classification": 144
+    },
+    {
+      "id": 11,
+      "state": "MG",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MG.png",
+      "classification": 23
+    },
+    {
+      "id": 12,
+      "state": "MS",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MS.png",
+      "classification": 1
+    },
+    {
+      "id": 13,
+      "state": "MT",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MT.png",
+      "classification": 199
+    },
+    {
+      "id": 14,
+      "state": "PA",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PA.png",
+      "classification": 185
+    },
+    {
+      "id": 15,
+      "state": "PB",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PB.png",
+      "classification": 8
+    },
+    {
+      "id": 16,
+      "state": "PE",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PE.png",
+      "classification": 16
+    },
+    {
+      "id": 17,
+      "state": "PI",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PI.png",
+      "classification": 7
+    },
+    {
+      "id": 18,
+      "state": "PR",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PR.png",
+      "classification": 26
+    },
+    {
+      "id": 19,
+      "state": "RJ",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RJ.png",
+      "classification": 28
+    },
+    {
+      "id": 20,
+      "state": "RN",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RN.png",
+      "classification": 13
+    },
+    {
+      "id": 21,
+      "state": "RO",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RO.png",
+      "classification": 221
+    },
+    {
+      "id": 22,
+      "state": "RR",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RR.png",
+      "classification": 57
+    },
+    {
+      "id": 23,
+      "state": "RS",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RS.png",
+      "classification": 14
+    },
+    {
+      "id": 24,
+      "state": "SC",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SC.png",
+      "classification": 14
+    },
+    {
+      "id": 25,
+      "state": "SE",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SE.png",
+      "classification": 29
+    },
+    {
+      "id": 26,
+      "state": "SP",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SP.png",
+      "classification": 24
+    },
+    {
+      "id": 27,
+      "state": "TO",
+      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/TO.png",
+      "classification": 17
+    }
+  ],
+  "weatherForecast": [
+    {
+      "id": 1,
+      "date": "11 de abril de 2021 - 06:30:00",
+      "image": "http://nucleo.tempestades.org.br//tempestades.org.br/NovoPortal/acesso_restrito/previsao/upload/applicationImageFilebrasil_1618390805.png",
+      "region": [
+        {
+          "id": 1,
+          "location": "Região Sul",
+          "subject": "CHUVA E TEMPESTADES ISOLADAS",
+          "text": "O deslocamento de um Ciclone Extratropical pela costa da região somado ao avanço de uma frente fria deixam o tempo instável em grande parte da porção sul brasileira. Uma forte massa de ar frio se desloca na retaguarda da frente e deve derrubar as temperaturas ainda durante a noite no RS. O vento estará intenso, principalmente na costa do RS, com isso o mar fica agitado com ondas significativas."
+        },
+        {
+          "location": "Regiões Centro-Oeste e Sudeste",
+          "subject": "PANCADAS DE CHUVA, TEMPESTADES E TEMPO ESTÁVEL",
+          "text": "O Sudeste e grande parte do MS e GO tem predomínio de tempo firme com sol e grande amplitude térmica. Com efeito, as máximas devem ficar próximas aos 30ºC durante a tarde, enquanto que durante a manhã e a noite a temperatura será amena, com mínimas em torno de 15ºC em algumas localidades. A instabilidade aparece no oeste do MS, norte do GO e grande parte do MT devido à termodinâmica e um Vórtice Ciclônico de Altos Níveis (VCAN) e causa chuva e tempestades pontuais, principalmente entre a tarde e noite."
+        },
+        {
+          "location": "Regiões Norte e Nordeste",
+          "subject": "PANCADAS DE CHUVA, TEMPESTADES",
+          "text": "A presença de um escoamento divergente em altos níveis sobre a região Norte e grande parte do Nordeste somados a alta umidade, aquecimento ao longo do dia e um VCAN favorecem a ocorrência de tempestades intensas principalmente a partir da tarde. No norte do Nordeste e norte da região Norte, as tempestades são ainda potencializadas pela presença da ZCIT que contribui ainda mais o aumento de umidade e convergência nestas áreas. O transporte de umidade do Oceano também favorece a umidade na costa leste e nordeste da região Nordeste."
+        }
+      ]
+    }
+  ]
+}
