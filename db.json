@@ -84,197 +84,187 @@
   "clients": [
     {
       "id": 1,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/logo_atvos.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_atvos_eeroyc.png",
       "webSite": "https://www.atvos.com/"
     },
     {
       "id": 2,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1555013229_constremac.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1555013229_constremac_ie8ygl.jpg",
       "webSite": "https://www.constremac.com.br/"
     },
     {
       "id": 3,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950252_Construcap.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950252_Construcap_ailenl.jpg",
       "webSite": "https://www.construcap.com.br/pt/home"
     },
     {
       "id": 4,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1553887980_cortez-engenharia-logotipo.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553887980_cortez-engenharia-logotipo_r9b8tk",
       "webSite": "https://cortezengenharia.com.br/"
     },
     {
       "id": 5,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1523881272_cymi.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1523881272_cymi_ndjahn.jpg",
       "webSite": "https://www.pt.cymisa.com/"
     },
     {
       "id": 6,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1452084054_logo2ecb.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1452084054_logo2ecb_uy2aet.png",
       "webSite": "http://www.ecbsa.com.br/#/"
     },
     {
       "id": 7,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1526994895_logo_energisa.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1526994895_logo_energisa_wgbmxw.jpg",
       "webSite": "https://www.energisa.com.br/"
     },
     {
       "id": 8,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1528221563_engie_logotype_gradient_blue_pantone.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1528221563_engie_logotype_gradient_blue_pantone_ct9fzc.png",
       "webSite": "https://www.engie.com.br/"
     },
     {
       "id": 9,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1544638442_image001.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1544638442_image001_hd1mzx.png",
       "webSite": "https://www.fundacaorenova.org/"
     },
     {
       "id": 10,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1515784187_logoccsn.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1515784187_logoccsn_ib3pyt.jpg",
       "webSite": "http://www.niplan.com.br/"
     },
     {
       "id": 11,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1546626352_1513076358_logotipo-embranco.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626352_1513076358_logotipo-embranco_c6zxtt.png",
       "webSite": "http://www.promonengenharia.com.br/"
     },
     {
       "id": 12,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/clientes/img/logo_nordex.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_nordex_tbciox.jpg",
       "webSite": "#"
     },
     {
       "id": 13,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1511549281_queiroz-galvao.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511549281_queiroz-galvao_p3zlbm.png",
       "webSite": "https://construtoraqueirozgalvao.com.br/"
     },
     {
       "id": 14,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/sdepcibrazillogo.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/sdepcibrazillogo_lgpzlh.jpg",
       "webSite": "http://www.sdepci.com:8080/"
     },
     {
       "id": 15,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1433948710_logo_samarco.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1433948710_logo_samarco_y9txmi.jpg",
       "webSite": "https://www.samarco.com/"
     },
     {
       "id": 16,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1512391746_logosantarita.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1512391746_logosantarita_hqpzs4.jpg",
       "webSite": "#"
     },
     {
       "id": 17,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1521742744_seta_engenharia.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1521742744_seta_engenharia_umztwo.png",
       "webSite": "https://setaengenharia.com/"
     },
     {
       "id": 18,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1583879684_logoteckma.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1583879684_logoteckma_yv0yza.png",
       "webSite": "https://www.teckma.com.br/"
     },
     {
       "id": 19,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950452_tenaris_rgb.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950452_tenaris_rgb_zk98kl.jpg",
       "webSite": "https://www.tenaris.com/en"
     },
     {
       "id": 20,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1510858132_logoyara.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1510858132_logoyara_vtjiiv.png",
       "webSite": "https://www.yarabrasil.com.br/"
     },
     {
       "id": 21,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950072_Logo_AngloAmerican.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950072_Logo_AngloAmerican_y07fr5.jpg",
       "webSite": "https://brasil.angloamerican.com/pt-pt"
     },
     {
       "id": 22,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1424786314_logo%20laranja%20e%20branco%20horizontal.jpg",
-      "webSite": "http://azevedotravassos.com.br/portal/"
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421951852_Logotipo_CCSL_kxswef.jpg",
+      "webSite": "#"
     },
     {
       "id": 23,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421951852_Logotipo_CCSL.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1477416750_cco_logo_eymveh.jpg",
       "webSite": "#"
     },
     {
       "id": 24,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1477416750_cco_logo.jpg",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950225_LOGO_CONSORCIO_COLORIDA_u3b2qr.jpg",
       "webSite": "#"
     },
     {
       "id": 25,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950225_LOGO_CONSORCIO_COLORIDA.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 26,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950363_image001.png",
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950363_image001_x7fjk0.png",
       "webSite": "https://www.enseada.com/"
     },
     {
-      "id": 27,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1427205575_Logo%20Elektro%20(novo).png",
-      "webSite": "https://www.elektro.com.br/"
-    },
-    {
-      "id": 28,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1470751042_logofibria.jpg",
+      "id": 26,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1470751042_logofibria_tyhd21.jpg",
       "webSite": "http://r2017.fibria.com.br/somos-fibria/sobre-a-fibria/"
     },
     {
-      "id": 29,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950275_Liderroll.jpg",
+      "id": 27,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950275_Liderroll_kvus0n.jpg",
       "webSite": "http://www.liderroll.com.br/WP/"
     },
     {
-      "id": 30,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1482240014_montcalm_logo.jpg",
+      "id": 28,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1482240014_montcalm_logo_nulbvn.jpg",
       "webSite": "https://montcalm.com.br/"
     },
     {
-      "id": 31,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1546626061_norteng.jpeg",
+      "id": 29,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626061_norteng_m9lnlg.jpg",
       "webSite": "http://norteng.com.br/"
     },
     {
-      "id": 32,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950389_Logo_Petrobras_2.jpg",
+      "id": 30,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950389_Logo_Petrobras_2_fgxcxh.jpg",
       "webSite": "https://petrobras.com.br/pt/"
     },
     {
-      "id": 33,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1511181428_progen.jpg",
+      "id": 31,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511181428_progen_mbi4ls.jpg",
       "webSite": "http://www.progen.com.br/"
     },
     {
-      "id": 34,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950507_Logo_Vale.gif",
+      "id": 32,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950507_Logo_Vale_xuyyj2.gif",
       "webSite": "http://www.vale.com/brasil/PT/Paginas/default.aspx"
     },
     {
-      "id": 35,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1493294226_vli.png",
+      "id": 33,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1493294226_vli_q2auhu.png",
       "webSite": "https://www.vli-logistica.com.br/"
     },
     {
-      "id": 36,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/UTC_ENGENHARIA.png",
+      "id": 34,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/UTC_ENGENHARIA_iyafx6.png",
       "webSite": "http://www.utcparticipacoes.com.br/"
     },
     {
-      "id": 37,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1553087406_topo_novo_civil_master.png",
+      "id": 35,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553087406_topo_novo_civil_master_mnkw4j.png",
       "webSite": "http://www.civilmaster.com.br/"
     },
     {
-      "id": 38,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1591127858_vestas.jpg",
+      "id": 36,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1591127858_vestas_x76cav.jpg",
       "webSite": "https://www.vestas.com/"
     },
     {
-      "id": 39,
-      "imageUrl": "http://nucleo.tempestades.org.br/NovoPortal/acesso_restrito/empresa/upload/1421950338_Odebrecht.jpg",
+      "id": 37,
+      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950338_Odebrecht_uunysb.jpg",
       "webSite": "https://www.oec-eng.com/"
     }
   ],
@@ -282,163 +272,163 @@
     {
       "id": 1,
       "state": "AC",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AC.png",      
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AC_jj5zuv.png",      
       "classification": 20
     },
     {
       "id": 2,
       "state": "AL",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AL.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AL_f1ci3g.png",
       "classification": 19
     },
     {
       "id": 3,
       "state": "AM",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AM.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AM_dfqjsi.png",
       "classification": 190
     },
     {
       "id": 4,
       "state": "AP",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/AP.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AP_m3rrl6.png",
       "classification": 200
     },
     {
       "id": 5,
       "state": "BA",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/BA.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/BA_u6vphm.png",
       "classification": 25
     },
     {
       "id": 6,
       "state": "CE",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/CE.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/CE_mvjwxt.png",
       "classification": 50
     },
     {
       "id": 7,
       "state": "DF",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/DF.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/DF_dzmgcw.png",
       "classification": 27
     },
     {
       "id": 8,
       "state": "ES",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/ES.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/ES_ctiwsh.png",
       "classification": 11
     },
     {
       "id": 9,
       "state": "GO",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/GO.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/GO_vlj3ie.png",
       "classification": 5
     },
     {
       "id": 10,
       "state": "MA",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MA.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MA_v56yyx.png",
       "classification": 144
     },
     {
       "id": 11,
       "state": "MG",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MG.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MG_utkuid.png",
       "classification": 23
     },
     {
       "id": 12,
       "state": "MS",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MS.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MS_g22gza.png",
       "classification": 1
     },
     {
       "id": 13,
       "state": "MT",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/MT.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MT_z6lmeq.png",
       "classification": 199
     },
     {
       "id": 14,
       "state": "PA",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PA.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PA_jqavix.png",
       "classification": 185
     },
     {
       "id": 15,
       "state": "PB",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PB.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PB_b2u8js.png",
       "classification": 8
     },
     {
       "id": 16,
       "state": "PE",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PE.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PE_txyual.png",
       "classification": 16
     },
     {
       "id": 17,
       "state": "PI",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PI.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PI_aa9ah3.png",
       "classification": 7
     },
     {
       "id": 18,
       "state": "PR",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/PR.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PR_zinrxm.png",
       "classification": 26
     },
     {
       "id": 19,
       "state": "RJ",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RJ.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RJ_edbcbf.png",
       "classification": 28
     },
     {
       "id": 20,
       "state": "RN",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RN.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RN_u4rihk.png",
       "classification": 13
     },
     {
       "id": 21,
       "state": "RO",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RO.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RO_pqd2zq.png",
       "classification": 221
     },
     {
       "id": 22,
       "state": "RR",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RR.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RR_rrxkca.png",
       "classification": 57
     },
     {
       "id": 23,
       "state": "RS",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/RS.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RS_oh6cdd.png",
       "classification": 14
     },
     {
       "id": 24,
       "state": "SC",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SC.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SC_wds0cc.png",
       "classification": 14
     },
     {
       "id": 25,
       "state": "SE",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SE.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SE_us3xua.png",
       "classification": 29
     },
     {
       "id": 26,
       "state": "SP",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/SP.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SP_hllwir.png",
       "classification": 24
     },
     {
       "id": 27,
       "state": "TO",
-      "icon": "http://nucleo.tempestades.org.br/tempestades.org.br/NovoPortal/img/bandeiras/TO.png",
+      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/TO_u3pwgo.png",
       "classification": 17
     }
   ],
@@ -446,7 +436,7 @@
     {
       "id": 1,
       "date": "11 de abril de 2021 - 06:30:00",
-      "image": "http://nucleo.tempestades.org.br//tempestades.org.br/NovoPortal/acesso_restrito/previsao/upload/applicationImageFilebrasil_1618390805.png",
+      "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
       "region": [
         {
           "id": 1,
