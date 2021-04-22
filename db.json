@@ -19,442 +19,453 @@
       "icon": "https://www.pikpng.com/pngl/m/105-1052172_png-file-svg-transparent-background-education-icon-clipart.png"
     }    
   ],
+ 
+  "home": {
+    "satellite": {
+      "name": "GOES",
+      "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/map-component-images/imgSatelite_nmsqm3.jpg"
+    },
+    "reflectivity": {
+      "name": "Reflectivity",
+      "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/map-component-images/d02_refletividade_ekrluf.png"
+    },
+    "precipitation": {
+      "name": "Precipitation",
+      "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/map-component-images/d01_preciptacao_yojil5.png"
+    },
+    "clients": [
+      {
+        "id": 1,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_atvos_eeroyc.png",
+        "name": "atvos"
+      },
+      {
+        "id": 2,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1555013229_constremac_ie8ygl.jpg",
+        "name": "constremac"
+      },
+      {
+        "id": 3,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950252_Construcap_ailenl.jpg",
+        "name": "construcap"
+      },
+      {
+        "id": 4,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553887980_cortez-engenharia-logotipo_r9b8tk",
+        "name": "cortezengenharia"
+      },
+      {
+        "id": 5,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1523881272_cymi_ndjahn.jpg",
+        "name": "cymisa"
+      },
+      {
+        "id": 6,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1452084054_logo2ecb_uy2aet.png",
+        "name": "ecbsa"
+      },
+      {
+        "id": 7,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1526994895_logo_energisa_wgbmxw.jpg",
+        "name": "energisa"
+      },
+      {
+        "id": 8,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1528221563_engie_logotype_gradient_blue_pantone_ct9fzc.png",
+        "name": "engie"
+      },
+      {
+        "id": 9,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1544638442_image001_hd1mzx.png",
+        "name": "fundação renova"
+      },
+      {
+        "id": 10,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1515784187_logoccsn_ib3pyt.jpg",
+        "name": "niplan"
+      },
+      {
+        "id": 11,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626352_1513076358_logotipo-embranco_c6zxtt.png",
+        "name": "promon engenharia"
+      },
+      {
+        "id": 12,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_nordex_tbciox.jpg",
+        "name": "nordex acciona windpower"
+      },
+      {
+        "id": 13,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511549281_queiroz-galvao_p3zlbm.png",
+        "name": "construtora queiroz galvao"
+      },
+      {
+        "id": 14,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/sdepcibrazillogo_lgpzlh.jpg",
+        "name": "sdepci"
+      },
+      {
+        "id": 15,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1433948710_logo_samarco_y9txmi.jpg",
+        "name": "samarco"
+      },
+      {
+        "id": 16,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1512391746_logosantarita_hqpzs4.jpg",
+        "name": "santa rita engenharia & construções"
+      },
+      {
+        "id": 17,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1521742744_seta_engenharia_umztwo.png",
+        "name": "seta engenharia"
+      },
+      {
+        "id": 18,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1583879684_logoteckma_yv0yza.png",
+        "name": "teckma"
+      },
+      {
+        "id": 19,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950452_tenaris_rgb_zk98kl.jpg",
+        "name": "tenaris"
+      },
+      {
+        "id": 20,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1510858132_logoyara_vtjiiv.png",
+        "name": "yara"
+      },
+      {
+        "id": 21,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950072_Logo_AngloAmerican_y07fr5.jpg",
+        "name": "angloamerican"
+      },
+      {
+        "id": 22,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421951852_Logotipo_CCSL_kxswef.jpg",
+        "name": "ccsl consorcio construtor são lourenço"
+      },
+      {
+        "id": 23,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1477416750_cco_logo_eymveh.jpg",
+        "name": "cco centro de controle operacional"
+      },
+      {
+        "id": 24,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950225_LOGO_CONSORCIO_COLORIDA_u3b2qr.jpg",
+        "name": "consórcio mgt"
+      },
+      {
+        "id": 25,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950363_image001_x7fjk0.png",
+        "name": "enseada"
+      },
+      {
+        "id": 26,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1470751042_logofibria_tyhd21.jpg",
+        "name": "fibria"
+      },
+      {
+        "id": 27,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950275_Liderroll_kvus0n.jpg",
+        "name": "liderroll"
+      },
+      {
+        "id": 28,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1482240014_montcalm_logo_nulbvn.jpg",
+        "name": "montcalm"
+      },
+      {
+        "id": 29,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626061_norteng_m9lnlg.jpg",
+        "name": "norteng"
+      },
+      {
+        "id": 30,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950389_Logo_Petrobras_2_fgxcxh.jpg",
+        "name": "petrobras"
+      },
+      {
+        "id": 31,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511181428_progen_mbi4ls.jpg",
+        "name": "progen"
+      },
+      {
+        "id": 32,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950507_Logo_Vale_xuyyj2.gif",
+        "name": "vale"
+      },
+      {
+        "id": 33,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1493294226_vli_q2auhu.png",
+        "name": "vli logistica"
+      },
+      {
+        "id": 34,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/UTC_ENGENHARIA_iyafx6.png",
+        "name": "utc engenharia"
+      },
+      {
+        "id": 35,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553087406_topo_novo_civil_master_mnkw4j.png",
+        "name": "civilmaster"
+      },
+      {
+        "id": 36,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1591127858_vestas_x76cav.jpg",
+        "name": "vestas"
+      },
+      {
+        "id": 37,
+        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950338_Odebrecht_uunysb.jpg",
+        "name": "odebrecht"
+      }
+    ]
+  },
+
   "news": [
     {
       "id": 1,
-      "title": "03 de abril de 2021 - 22:00:25",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "A ocorrência de uma descarga atmosférica na última quinta-feira (01/04) provocou um incêndio de grandes proporções na cidade de Guaratinga, no sul da Bahia. O raio ocorreu por volta das 17hrs e durou pelo menos até a manhã da sexta-feira. De acordo com o Núcleo de Monitoramento do INPE, havia a passagem de um sistema frontal na região neste dia que ocasionou a formação de tempestades intensas e com alta incidência de raios."
     },
     {
       "id": 2,
-      "title": "03 de abril de 2021 - 21:57:02",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na última terça-feira (30/03), a ocorrência de um raio em Iguaba Grande, no Rio de Janeiro, provocou um incêndio em uma residência no bairro Vila Nova. Apesar de os bombeiros terem sido chamados e realizarem o controlo do gofo, o incêndio provocou a perca de todos os pertences da família. De acordo com o Núcleo de Monitoramento do INPE, as tempestades que ocorriam na região foram causadas devido a passagem de um sistema frontal pela região."
     },
     {
       "id": 3,
-      "title": "03 de abril de 2021 - 21:54:22",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Durante a madrugada da última terça-feira e quarta-feira (30 e 31 de março), a ocorrência de tempestades provocaram a queda de um raio na vegetação que cobria uma rocha no município de Atílio Vivácqua, no sul do Espirito Santo. O raio provocou um incêndio na vegetação e queimou boa parte da vegetação que cobria a rocha. Devido a dificuldade em acessar o local do incêndio, não foi possível realizar o controle dos focos de incêndio."
     },
     {
       "id": 4,
-      "title": "31 de março de 2021 - 13:05:33",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Durante a madrugada da última terça-feira (30/03), um homem de 39 anos morreu após ser atingido por um raio em Ubatuba, litoral de São Paulo. Segundo o corpo de bombeiros, a vítima estava junto com um amigo, em uma embarcação de metal na Ilha das Couves quando a tempestade começou pegando os dois de surpresa. O amigo da vítima nadou até a praia, arrastando a embarcação e procurou ajuda. Quando os bombeiros chegaram o homem já estava morto. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de uma Frente Fria favorecia o transporte de umidade para a região, colaborando para a ocorrência de pancadas de chuva tempestades localmente intensas."
     },
     {
       "id": 5,
-      "title": "29 de março de 2021 - 08:55:46",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na noite de sábado (27/03), um jovem de 22 anos morreu ao ser atingido por um raio em Serra Negra do Norte, no Seridó Potiguar (RN). No momento do ocorrido, Lucas Medeiros pescava em um açude com amigos na zona rural da cidade. Lucas e cerca de cinco amigos no momento da tempestades se abrigaram em baixo de uma árvore e foram atingidos por um raio. Com a descarga, alguns desmaiaram e Lucas não resistiu. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, na região NE devido a atuação da ZCIT associada ainda a divergência em altos níveis resultou em chuva localmente intensa e tempestades."
     },
     {
       "id": 6,
-      "title": "22 de março de 2021 - 16:55:36",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Um homem foi atingido por um raio durante uma tempestade ocorrida na última quinta-feira (18/03), na cidade de Bauru, interior de São Paulo. O incidente ocorreu por volta do meio-dia e o rapaz acredita que o guarda-chuva que usava tenha sido o condutor da descarga. Apesar do susto, ele passa bem. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de uma Frente Fria favoreceu o aumento da instabilidade e da umidade, provocando pancadas de chuva e tempestades localmente intensas pela região."
     },
     {
       "id": 7,
-      "title": "18 de março de 2021 - 17:02:42",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Isaias da Silva, 39 anos, morreu após ser atingido por um raio, enquanto voltava para casa. O caso aconteceu na tarde do dia 15, numa fazenda localizada em Bodoquena, 266 quilômetros de Campo Grande. Garoava no momento, então Isaias decidiu subir na carroceria de um trator para chegar mais rápido em casa quando no retorno, um raio caiu de repente. A descarga elétrica atingiu Isaias, que não resistiu e morreu no local. Um colega de trabalho que presenciou a cena tentou reanimar a vítima, porém, ele já não apresentava mais sinais vitais. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a alta umidade somada ao aquecimento diurno junto com divergência na altura deixaram as condições favoráveis para a ocorrência de tempestades."
     },
     {
       "id": 8,
-      "title": "08 de março de 2021 - 12:00:00",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Um homem morreu após ser atingido por um raio na noite de domingo (7), na zona rural de Pancas, na região Noroeste do Espirito Santo. A vítima estava mexendo no celular quando foi atingida pela descarga elétrica. Segundo o coordenador da Defesa Civil Municipal, a fatalidade aconteceu na localidade de São José Pequeno. A família ainda tentou pedir socorro, mas não conseguiu porque é um local bem afastado. Raios também mataram animais no interior do estado. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a alta umidade favorecida pela configuração de grande escala juntamente com a instabilidade causada por um sistema frontal favoreceram a ocorrência de levantamento e consequente formação de tempestades com altos acumulados de chuva ao longo do dia."
     },
     {
       "id": 9,
-      "title": "27 de fevereiro de 2021 - 22:01:55",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na última sexta-feira (26/02), dois salva-vidas ficaram feridos após um raio atingir o posto de salvamento, na praia de Guaratuba, litoral do Paraná. Segundo os bombeiros, os dois estavam dentro do local no momento da descarga. Um dos salva-vidas ficou em estado grave, mas já se encontra estável. O outro teve ferimentos leves. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, o resquício da passagem de um sistema frontal favoreceu a ocorrência de pancadas de chuva e tempestades isoladas na região."
     },
     {
       "id": 10,
-      "title": "25 de fevereiro de 2021 - 20:44:53",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na última quinta-feira (25/02), um homem estava pescando com seu filho em um pesqueiro de Araucária, localizado na região metropolitana de Curitiba, quando foi atingido por um raio proveniente de uma tempestade que estava sobre a região. Infelizmente o homem acabou indo a óbito, mas seu filho teve apenas ferimentos leves. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação de um cavado em médios níveis dava suporte para formação de tempestades na região leste do Paraná."
     },
     {
       "id": 11,
-      "title": "25 de fevereiro de 2021 - 09:08:33",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na última quarta-feira (24/02), pai e filho morreram ao serem atingidos por uma descarga elétrica em Francisco Ayres, município localizado a 170 km de Teresina, no Piauí. De acordo com o secretário municipal da cidade, as vítimas estavam trabalhando na zona rural da cidade no momento do ocorrido, e resolveram abrigar-se da chuva embaixo de uma árvore, onde foram atingidos pelo raio. Também estavam presentes outro filho e sobrinho do vítima, os quais foram encaminhados ao hospital e passam bem. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação da Zona de Convergência Intertropical (ZCIT) aliada à termodinâmica local, potencializaram a instabilidade na região, provocando tempestades no decorrer do dia."
     },
     {
       "id": 12,
-      "title": "23 de fevereiro de 2021 - 20:46:36",
+      "created": "2021-04-19T12:00:27.87-03:00",
       "text": "Na última segunda-feira (22/02), um garoto de apenas 8 anos morreu vítima de um raio, na zona rural da cidade de Santo Antônio dos Milagres, a 120 km de Teresina (PI). O menino estava brincando em um campo de futebol com amigos, durante a tempestade, quando foi atingido pelo raio. Ele chegou a ser socorrido, mas não resistiu. De acordo com o Núcleo de Monitoramento de Descargas Atmosféricas, a atuação da Zona de Convergência Intertropical (ZCIT) somada a termodinâmica, favoreceram a instabilidade e a ocorrência de tempestades na região."
     }
   ],
-  "clients": [
-    {
-      "id": 1,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_atvos_eeroyc.png",
-      "webSite": "https://www.atvos.com/"
-    },
-    {
-      "id": 2,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1555013229_constremac_ie8ygl.jpg",
-      "webSite": "https://www.constremac.com.br/"
-    },
-    {
-      "id": 3,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950252_Construcap_ailenl.jpg",
-      "webSite": "https://www.construcap.com.br/pt/home"
-    },
-    {
-      "id": 4,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553887980_cortez-engenharia-logotipo_r9b8tk",
-      "webSite": "https://cortezengenharia.com.br/"
-    },
-    {
-      "id": 5,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1523881272_cymi_ndjahn.jpg",
-      "webSite": "https://www.pt.cymisa.com/"
-    },
-    {
-      "id": 6,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1452084054_logo2ecb_uy2aet.png",
-      "webSite": "http://www.ecbsa.com.br/#/"
-    },
-    {
-      "id": 7,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1526994895_logo_energisa_wgbmxw.jpg",
-      "webSite": "https://www.energisa.com.br/"
-    },
-    {
-      "id": 8,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1528221563_engie_logotype_gradient_blue_pantone_ct9fzc.png",
-      "webSite": "https://www.engie.com.br/"
-    },
-    {
-      "id": 9,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1544638442_image001_hd1mzx.png",
-      "webSite": "https://www.fundacaorenova.org/"
-    },
-    {
-      "id": 10,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1515784187_logoccsn_ib3pyt.jpg",
-      "webSite": "http://www.niplan.com.br/"
-    },
-    {
-      "id": 11,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626352_1513076358_logotipo-embranco_c6zxtt.png",
-      "webSite": "http://www.promonengenharia.com.br/"
-    },
-    {
-      "id": 12,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_nordex_tbciox.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 13,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511549281_queiroz-galvao_p3zlbm.png",
-      "webSite": "https://construtoraqueirozgalvao.com.br/"
-    },
-    {
-      "id": 14,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/sdepcibrazillogo_lgpzlh.jpg",
-      "webSite": "http://www.sdepci.com:8080/"
-    },
-    {
-      "id": 15,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1433948710_logo_samarco_y9txmi.jpg",
-      "webSite": "https://www.samarco.com/"
-    },
-    {
-      "id": 16,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1512391746_logosantarita_hqpzs4.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 17,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1521742744_seta_engenharia_umztwo.png",
-      "webSite": "https://setaengenharia.com/"
-    },
-    {
-      "id": 18,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1583879684_logoteckma_yv0yza.png",
-      "webSite": "https://www.teckma.com.br/"
-    },
-    {
-      "id": 19,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950452_tenaris_rgb_zk98kl.jpg",
-      "webSite": "https://www.tenaris.com/en"
-    },
-    {
-      "id": 20,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1510858132_logoyara_vtjiiv.png",
-      "webSite": "https://www.yarabrasil.com.br/"
-    },
-    {
-      "id": 21,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950072_Logo_AngloAmerican_y07fr5.jpg",
-      "webSite": "https://brasil.angloamerican.com/pt-pt"
-    },
-    {
-      "id": 22,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421951852_Logotipo_CCSL_kxswef.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 23,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1477416750_cco_logo_eymveh.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 24,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950225_LOGO_CONSORCIO_COLORIDA_u3b2qr.jpg",
-      "webSite": "#"
-    },
-    {
-      "id": 25,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950363_image001_x7fjk0.png",
-      "webSite": "https://www.enseada.com/"
-    },
-    {
-      "id": 26,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1470751042_logofibria_tyhd21.jpg",
-      "webSite": "http://r2017.fibria.com.br/somos-fibria/sobre-a-fibria/"
-    },
-    {
-      "id": 27,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950275_Liderroll_kvus0n.jpg",
-      "webSite": "http://www.liderroll.com.br/WP/"
-    },
-    {
-      "id": 28,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1482240014_montcalm_logo_nulbvn.jpg",
-      "webSite": "https://montcalm.com.br/"
-    },
-    {
-      "id": 29,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626061_norteng_m9lnlg.jpg",
-      "webSite": "http://norteng.com.br/"
-    },
-    {
-      "id": 30,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950389_Logo_Petrobras_2_fgxcxh.jpg",
-      "webSite": "https://petrobras.com.br/pt/"
-    },
-    {
-      "id": 31,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511181428_progen_mbi4ls.jpg",
-      "webSite": "http://www.progen.com.br/"
-    },
-    {
-      "id": 32,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950507_Logo_Vale_xuyyj2.gif",
-      "webSite": "http://www.vale.com/brasil/PT/Paginas/default.aspx"
-    },
-    {
-      "id": 33,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1493294226_vli_q2auhu.png",
-      "webSite": "https://www.vli-logistica.com.br/"
-    },
-    {
-      "id": 34,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/UTC_ENGENHARIA_iyafx6.png",
-      "webSite": "http://www.utcparticipacoes.com.br/"
-    },
-    {
-      "id": 35,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553087406_topo_novo_civil_master_mnkw4j.png",
-      "webSite": "http://www.civilmaster.com.br/"
-    },
-    {
-      "id": 36,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1591127858_vestas_x76cav.jpg",
-      "webSite": "https://www.vestas.com/"
-    },
-    {
-      "id": 37,
-      "imageUrl": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950338_Odebrecht_uunysb.jpg",
-      "webSite": "https://www.oec-eng.com/"
-    }
-  ],
-  "monitoring": [
+  
+  "state": [
     {
       "id": 1,
       "state": "AC",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AC_jj5zuv.png",      
-      "classification": 20
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AC_jj5zuv.png",      
+      "total": 20
     },
     {
       "id": 2,
       "state": "AL",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AL_f1ci3g.png",
-      "classification": 19
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AL_f1ci3g.png",
+      "total": 19
     },
     {
       "id": 3,
       "state": "AM",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AM_dfqjsi.png",
-      "classification": 190
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AM_dfqjsi.png",
+      "total": 190
     },
     {
       "id": 4,
       "state": "AP",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AP_m3rrl6.png",
-      "classification": 200
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/AP_m3rrl6.png",
+      "total": 200
     },
     {
       "id": 5,
       "state": "BA",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/BA_u6vphm.png",
-      "classification": 25
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/BA_u6vphm.png",
+      "total": 25
     },
     {
       "id": 6,
       "state": "CE",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/CE_mvjwxt.png",
-      "classification": 50
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/CE_mvjwxt.png",
+      "total": 50
     },
     {
       "id": 7,
       "state": "DF",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/DF_dzmgcw.png",
-      "classification": 27
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/DF_dzmgcw.png",
+      "total": 27
     },
     {
       "id": 8,
       "state": "ES",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/ES_ctiwsh.png",
-      "classification": 11
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/ES_ctiwsh.png",
+      "total": 11
     },
     {
       "id": 9,
       "state": "GO",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/GO_vlj3ie.png",
-      "classification": 5
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/GO_vlj3ie.png",
+      "total": 5
     },
     {
       "id": 10,
       "state": "MA",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MA_v56yyx.png",
-      "classification": 144
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MA_v56yyx.png",
+      "total": 144
     },
     {
       "id": 11,
       "state": "MG",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MG_utkuid.png",
-      "classification": 23
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MG_utkuid.png",
+      "total": 23
     },
     {
       "id": 12,
       "state": "MS",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MS_g22gza.png",
-      "classification": 1
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MS_g22gza.png",
+      "total": 1
     },
     {
       "id": 13,
       "state": "MT",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MT_z6lmeq.png",
-      "classification": 199
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/MT_z6lmeq.png",
+      "total": 199
     },
     {
       "id": 14,
       "state": "PA",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PA_jqavix.png",
-      "classification": 185
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PA_jqavix.png",
+      "total": 185
     },
     {
       "id": 15,
       "state": "PB",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PB_b2u8js.png",
-      "classification": 8
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PB_b2u8js.png",
+      "total": 8
     },
     {
       "id": 16,
       "state": "PE",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PE_txyual.png",
-      "classification": 16
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PE_txyual.png",
+      "total": 16
     },
     {
       "id": 17,
       "state": "PI",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PI_aa9ah3.png",
-      "classification": 7
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PI_aa9ah3.png",
+      "total": 7
     },
     {
       "id": 18,
       "state": "PR",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PR_zinrxm.png",
-      "classification": 26
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/PR_zinrxm.png",
+      "total": 26
     },
     {
       "id": 19,
       "state": "RJ",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RJ_edbcbf.png",
-      "classification": 28
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RJ_edbcbf.png",
+      "total": 28
     },
     {
       "id": 20,
       "state": "RN",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RN_u4rihk.png",
-      "classification": 13
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RN_u4rihk.png",
+      "total": 13
     },
     {
       "id": 21,
       "state": "RO",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RO_pqd2zq.png",
-      "classification": 221
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RO_pqd2zq.png",
+      "total": 221
     },
     {
       "id": 22,
       "state": "RR",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RR_rrxkca.png",
-      "classification": 57
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RR_rrxkca.png",
+      "total": 57
     },
     {
       "id": 23,
       "state": "RS",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RS_oh6cdd.png",
-      "classification": 14
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/RS_oh6cdd.png",
+      "total": 14
     },
     {
       "id": 24,
       "state": "SC",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SC_wds0cc.png",
-      "classification": 14
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SC_wds0cc.png",
+      "total": 14
     },
     {
       "id": 25,
       "state": "SE",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SE_us3xua.png",
-      "classification": 29
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SE_us3xua.png",
+      "total": 29
     },
     {
       "id": 26,
       "state": "SP",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SP_hllwir.png",
-      "classification": 24
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/SP_hllwir.png",
+      "total": 24
     },
     {
       "id": 27,
       "state": "TO",
-      "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/TO_u3pwgo.png",
-      "classification": 17
+      "flag": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/flags/TO_u3pwgo.png",
+      "total": 17
     }
   ],
-  "weatherForecast": [
+  
+  "forecasts": [
     {
-      "id": 1,
-      "date": "11 de abril de 2021 - 06:30:00",
-      "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
-      "region": [
-        {
-          "id": 1,
-          "location": "Região Sul",
-          "subject": "CHUVA E TEMPESTADES ISOLADAS",
-          "text": "O deslocamento de um Ciclone Extratropical pela costa da região somado ao avanço de uma frente fria deixam o tempo instável em grande parte da porção sul brasileira. Uma forte massa de ar frio se desloca na retaguarda da frente e deve derrubar as temperaturas ainda durante a noite no RS. O vento estará intenso, principalmente na costa do RS, com isso o mar fica agitado com ondas significativas."
-        },
-        {
-          "location": "Regiões Centro-Oeste e Sudeste",
-          "subject": "PANCADAS DE CHUVA, TEMPESTADES E TEMPO ESTÁVEL",
-          "text": "O Sudeste e grande parte do MS e GO tem predomínio de tempo firme com sol e grande amplitude térmica. Com efeito, as máximas devem ficar próximas aos 30ºC durante a tarde, enquanto que durante a manhã e a noite a temperatura será amena, com mínimas em torno de 15ºC em algumas localidades. A instabilidade aparece no oeste do MS, norte do GO e grande parte do MT devido à termodinâmica e um Vórtice Ciclônico de Altos Níveis (VCAN) e causa chuva e tempestades pontuais, principalmente entre a tarde e noite."
-        },
-        {
-          "location": "Regiões Norte e Nordeste",
-          "subject": "PANCADAS DE CHUVA, TEMPESTADES",
-          "text": "A presença de um escoamento divergente em altos níveis sobre a região Norte e grande parte do Nordeste somados a alta umidade, aquecimento ao longo do dia e um VCAN favorecem a ocorrência de tempestades intensas principalmente a partir da tarde. No norte do Nordeste e norte da região Norte, as tempestades são ainda potencializadas pela presença da ZCIT que contribui ainda mais o aumento de umidade e convergência nestas áreas. O transporte de umidade do Oceano também favorece a umidade na costa leste e nordeste da região Nordeste."
-        }
-      ]
+      "operator": "Nome do Ciclano",
+      "northText": "Previsão para o Norte",
+      "northTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "northeastText": "Previsão para o Nordeste",
+      "northeastTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "southText": "Previsão para o Sul",
+      "southTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "southeastText": "Previsão para o Sudeste",
+      "southeastTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "midwestText": "Previsão para o Centro-Oeste",
+      "midwestTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "brazilText": "Previsão para o Brasil - Vai na Home",
+      "brazilTextImage": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/weatherForecast/applicationImageFilebrasil_1618390805_tybami.png",
+      "created": "2021-04-19T12:00:27.87-03:00"
     }
   ]
 }
