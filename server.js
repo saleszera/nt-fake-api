@@ -20,6 +20,10 @@ server.use(jsonServer.rewriter({
   '/api/lightnings/state': '/state'
 }));
 
+server.use(jsonServer.rewriter({
+  '/api/lightnings/brazil-dat': '/brazil-dat'
+}));
+
 
 server.listen(process.env.PORT || 5000, () => {
   console.log('🚀️ JSON server is running 🚀️');
