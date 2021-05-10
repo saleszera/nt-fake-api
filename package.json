@@ -9,6 +9,6 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server --routes routes.json --watch db.json"
   }
 }

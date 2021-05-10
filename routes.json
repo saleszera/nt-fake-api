@@ -1,0 +1,10 @@
+{
+  "/api/website/news": "/news",
+  "/api/website/home": "/home",
+  "/api/website/forecasts": "/forecasts",
+  "/api/v1/lightnings/state": "/state",
+  "/api/v1/lightnings/brazil-dat": "/brazil-dat"
+}
+
+
+  
