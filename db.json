@@ -36,187 +36,187 @@
     "clients": [
       {
         "id": 1,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_atvos_eeroyc.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_atvos_eeroyc.png",
         "name": "atvos"
       },
       {
         "id": 2,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1555013229_constremac_ie8ygl.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1555013229_constremac_ie8ygl.jpg",
         "name": "constremac"
       },
       {
         "id": 3,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950252_Construcap_ailenl.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950252_Construcap_ailenl.jpg",
         "name": "construcap"
       },
       {
         "id": 4,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553887980_cortez-engenharia-logotipo_r9b8tk",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553887980_cortez-engenharia-logotipo_r9b8tk",
         "name": "cortezengenharia"
       },
       {
         "id": 5,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1523881272_cymi_ndjahn.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1523881272_cymi_ndjahn.jpg",
         "name": "cymisa"
       },
       {
         "id": 6,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1452084054_logo2ecb_uy2aet.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1452084054_logo2ecb_uy2aet.png",
         "name": "ecbsa"
       },
       {
         "id": 7,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1526994895_logo_energisa_wgbmxw.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1526994895_logo_energisa_wgbmxw.jpg",
         "name": "energisa"
       },
       {
         "id": 8,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1528221563_engie_logotype_gradient_blue_pantone_ct9fzc.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1528221563_engie_logotype_gradient_blue_pantone_ct9fzc.png",
         "name": "engie"
       },
       {
         "id": 9,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1544638442_image001_hd1mzx.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1544638442_image001_hd1mzx.png",
         "name": "fundação renova"
       },
       {
         "id": 10,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1515784187_logoccsn_ib3pyt.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1515784187_logoccsn_ib3pyt.jpg",
         "name": "niplan"
       },
       {
         "id": 11,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626352_1513076358_logotipo-embranco_c6zxtt.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626352_1513076358_logotipo-embranco_c6zxtt.png",
         "name": "promon engenharia"
       },
       {
         "id": 12,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_nordex_tbciox.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/logo_nordex_tbciox.jpg",
         "name": "nordex acciona windpower"
       },
       {
         "id": 13,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511549281_queiroz-galvao_p3zlbm.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511549281_queiroz-galvao_p3zlbm.png",
         "name": "construtora queiroz galvao"
       },
       {
         "id": 14,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/sdepcibrazillogo_lgpzlh.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/sdepcibrazillogo_lgpzlh.jpg",
         "name": "sdepci"
       },
       {
         "id": 15,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1433948710_logo_samarco_y9txmi.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1433948710_logo_samarco_y9txmi.jpg",
         "name": "samarco"
       },
       {
         "id": 16,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1512391746_logosantarita_hqpzs4.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1512391746_logosantarita_hqpzs4.jpg",
         "name": "santa rita engenharia & construções"
       },
       {
         "id": 17,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1521742744_seta_engenharia_umztwo.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1521742744_seta_engenharia_umztwo.png",
         "name": "seta engenharia"
       },
       {
         "id": 18,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1583879684_logoteckma_yv0yza.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1583879684_logoteckma_yv0yza.png",
         "name": "teckma"
       },
       {
         "id": 19,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950452_tenaris_rgb_zk98kl.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950452_tenaris_rgb_zk98kl.jpg",
         "name": "tenaris"
       },
       {
         "id": 20,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1510858132_logoyara_vtjiiv.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1510858132_logoyara_vtjiiv.png",
         "name": "yara"
       },
       {
         "id": 21,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950072_Logo_AngloAmerican_y07fr5.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950072_Logo_AngloAmerican_y07fr5.jpg",
         "name": "angloamerican"
       },
       {
         "id": 22,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421951852_Logotipo_CCSL_kxswef.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421951852_Logotipo_CCSL_kxswef.jpg",
         "name": "ccsl consorcio construtor são lourenço"
       },
       {
         "id": 23,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1477416750_cco_logo_eymveh.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1477416750_cco_logo_eymveh.jpg",
         "name": "cco centro de controle operacional"
       },
       {
         "id": 24,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950225_LOGO_CONSORCIO_COLORIDA_u3b2qr.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950225_LOGO_CONSORCIO_COLORIDA_u3b2qr.jpg",
         "name": "consórcio mgt"
       },
       {
         "id": 25,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950363_image001_x7fjk0.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950363_image001_x7fjk0.png",
         "name": "enseada"
       },
       {
         "id": 26,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1470751042_logofibria_tyhd21.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1470751042_logofibria_tyhd21.jpg",
         "name": "fibria"
       },
       {
         "id": 27,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950275_Liderroll_kvus0n.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950275_Liderroll_kvus0n.jpg",
         "name": "liderroll"
       },
       {
         "id": 28,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1482240014_montcalm_logo_nulbvn.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1482240014_montcalm_logo_nulbvn.jpg",
         "name": "montcalm"
       },
       {
         "id": 29,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626061_norteng_m9lnlg.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1546626061_norteng_m9lnlg.jpg",
         "name": "norteng"
       },
       {
         "id": 30,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950389_Logo_Petrobras_2_fgxcxh.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950389_Logo_Petrobras_2_fgxcxh.jpg",
         "name": "petrobras"
       },
       {
         "id": 31,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511181428_progen_mbi4ls.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1511181428_progen_mbi4ls.jpg",
         "name": "progen"
       },
       {
         "id": 32,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950507_Logo_Vale_xuyyj2.gif",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950507_Logo_Vale_xuyyj2.gif",
         "name": "vale"
       },
       {
         "id": 33,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1493294226_vli_q2auhu.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1493294226_vli_q2auhu.png",
         "name": "vli logistica"
       },
       {
         "id": 34,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/UTC_ENGENHARIA_iyafx6.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/UTC_ENGENHARIA_iyafx6.png",
         "name": "utc engenharia"
       },
       {
         "id": 35,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553087406_topo_novo_civil_master_mnkw4j.png",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1553087406_topo_novo_civil_master_mnkw4j.png",
         "name": "civilmaster"
       },
       {
         "id": 36,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1591127858_vestas_x76cav.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1591127858_vestas_x76cav.jpg",
         "name": "vestas"
       },
       {
         "id": 37,
-        "icon": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950338_Odebrecht_uunysb.jpg",
+        "image": "https://res.cloudinary.com/nucleo/image/upload/v1618706939/icons/website/clients/1421950338_Odebrecht_uunysb.jpg",
         "name": "odebrecht"
       }
     ]
